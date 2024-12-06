@@ -62,8 +62,8 @@ dependencies {
     implementation("androidx.core:core-splashscreen:1.0.1")
 
     // dependecies for pytorch
-    implementation ("com.squareup.picasso:picasso:2.8")
-    implementation ("org.pytorch:pytorch_android:1.12.0")
-    implementation ("com.squareup.picasso:picasso:2.71828")
+    implementation (libs.squareup.picasso)
+    implementation (libs.pytorch.android)
+    implementation (libs.squareup.picasso)
 
 }

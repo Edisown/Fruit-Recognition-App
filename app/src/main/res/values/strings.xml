@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Strawberry Ripeness Detection App</string>
     <string name="enter_text">Enter text</string>
     <string name="logo_desc">App Logo</string>
     <string name="welcome_message">Welcome to our Strawberry Ripeness Detection App!</string>
@@ -13,4 +12,6 @@
     <string name="start_app">Let it Ripe!</string>
     <string name="team_lemar">© Team LEMAR</string>
     <string name="disclaimer">This image classification model was trained using TensorFlow.</string>
+    <string name="app_name">IdentiFruit</string>
+    <string name="landing_page_topbar">Top bar for landing page</string>
 </resources>

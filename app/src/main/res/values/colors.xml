@@ -9,4 +9,11 @@
     <color name="maroon">#2D0A10</color>
     <color name="transparent">#00FFFFFF</color>
     <color name="gray">#1E1E1E</color>
+
+    <!-- Colors for IdentiFruit -->
+    <color name="primary_color">#CD5C08</color>
+    <color name="secondary_color">#57625E</color>
+    <color name="lighter_secondary_color">#C1D8C3</color>
+    <color name="alt_white">#FFF5E4</color>
+
 </resources>
